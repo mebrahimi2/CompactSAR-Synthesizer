@@ -5,7 +5,7 @@
 
 A desktop application for synthesizing Compact Polarimetric (CP) SAR data from Fully Polarimetric (FP) sources. This tool provides a user-friendly graphical interface (GUI) to process and convert SAR data for research and analysis.
 
-![Application Screenshot](logo.png)
+![Application Screenshot](GUI.png)
 
 ## Overview
 
